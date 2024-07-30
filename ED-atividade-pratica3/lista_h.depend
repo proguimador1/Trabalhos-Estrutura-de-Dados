@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1721076598 source:c:\users\guima\onedrive\projetos\ed-atividadepratica3\lista_h\main.c
+	<stdio.h>
+	"lista.h"
+
+1721076959 source:c:\users\guima\onedrive\projetos\ed-atividadepratica3\lista_h\lista.c
+	"lista.h"
+	<stdlib.h>
+
+1721071053 c:\users\guima\onedrive\projetos\ed-atividadepratica3\lista_h\lista.h
+
