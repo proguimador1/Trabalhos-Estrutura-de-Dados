@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1720693897 source:c:\users\guima\onedrive\projetos\ed-atividadepratica2\busca_binaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"busca.h"
+
+1720619355 c:\users\guima\onedrive\projetos\ed-atividadepratica2\busca_binaria\busca.h
+
+1720693575 source:c:\users\guima\onedrive\projetos\ed-atividadepratica2\busca_binaria\busca.c
+	"busca.h"
+
