@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1721826001 source:c:\users\guima\onedrive\projetos\ed-atividadepratica6\fila_h2\fila.c
+	"fila.h"
+	<stdio.h>
+
+1721826516 source:c:\users\guima\onedrive\projetos\ed-atividadepratica6\fila_h2\main.c
+	<stdio.h>
+	"fila.h"
+
+1721826039 c:\users\guima\onedrive\projetos\ed-atividadepratica6\fila_h2\fila.h
+	<stdlib.h>
+
