@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1719834951 source:c:\users\guima\onedrive\Área de trabalho\ed-aula2\conjunto_h\implements.c
+	"conjunto.h"
+
+1719836322 c:\users\guima\onedrive\Área de trabalho\ed-aula2\conjunto_h\conjunto.h
+
+1720004935 source:c:\users\guima\onedrive\projetos\ed-aula2\conjunto_h\main_file.c
+	<stdio.h>
+
+1720313004 source:c:\users\guima\onedrive\projetos\ed-aula2\conjunto_h\conjunto.c
+	"conjunto.h"
+	<stdio.h>
+
+1720313004 c:\users\guima\onedrive\projetos\ed-aula2\conjunto_h\conjunto.h
+
+1720312944 source:c:\users\guima\onedrive\projetos\ed-aula2\conjunto_h\main.c
+	<stdio.h>
+	"conjunto.h"
+
