@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1724331120 source:c:\users\guima\onedrive\projetos\trabalhos-estrutura-de-dados\ed-atividade-pratica8\tipofp.c
+	<stdio.h>
+	<stdlib.h>
+	"TipoFP.h"
+
+1724330459 c:\users\guima\onedrive\projetos\trabalhos-estrutura-de-dados\ed-atividade-pratica8\tipofp.h
+	"TipoFilaFIFO.h"
+	"TipoRegistro.h"
+
+1724177951 c:\users\guima\onedrive\projetos\trabalhos-estrutura-de-dados\ed-atividade-pratica8\tiporegistro.h
+	<stdlib.h>
+
+1724330839 c:\users\guima\onedrive\projetos\trabalhos-estrutura-de-dados\ed-atividade-pratica8\tipofilafifo.h
+	"TipoRegistro.h"
+
+1724331167 source:c:\users\guima\onedrive\projetos\trabalhos-estrutura-de-dados\ed-atividade-pratica8\main.c
+	<stdio.h>
+	"TipoFP.h"
+
+1724278453 source:c:\users\guima\onedrive\projetos\trabalhos-estrutura-de-dados\ed-atividade-pratica8\tipofilafifo.c
+	"TipoFilaFIFO.h"
+	<stdio.h>
+
